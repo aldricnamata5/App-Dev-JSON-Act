@@ -1,0 +1,20 @@
+{
+    "array1": 
+    [
+        {
+            "full_name": "Aldric Mico E. Namata",
+            "age":  21,
+            "your_quotes": "Never Give Up"
+        }
+    ],
+    "array2":
+    [
+        {
+            "section": "BSIT 3C",
+            "code": "T239",
+            "email": "2001103597@student.buksu.edu.ph"
+        }
+
+    ]
+    
+}
